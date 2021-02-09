@@ -1,2 +1,2 @@
-# JAB-Python-Project
+# JAB
 Python Project
